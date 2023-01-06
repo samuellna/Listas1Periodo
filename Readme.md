@@ -1,0 +1,1 @@
+Meus exercícios do primeiro periodo no curso de Engenharia da Computação.
